@@ -86,10 +86,10 @@ body {
     left: 20px;
     color: black;
     background-color: #f1faee;
-    height: 450px;
-    width: 200px;
+    height: 350px; /* Reduced height */
+    width: 150px; /* Reduced width */
     border-radius: 5px;
-    padding: 20px 10px;
+    padding: 15px 10px; /* Adjusted padding */
     box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.3);
     display: flex;
     flex-direction: column;
@@ -101,8 +101,8 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    padding: 12px 0;
-    margin: 20px 0; /* Increased gap */
+    padding: 10px 0; /* Adjusted padding */
+    margin: 15px 0; /* Reduced gap */
     text-decoration: none;
     font-size: 16px;
     font-weight: bold;
@@ -111,8 +111,6 @@ body {
     border-radius: 5px;
     transition: all 0.3s ease-in-out;
 }
-
-
 
 
 .kyp {
